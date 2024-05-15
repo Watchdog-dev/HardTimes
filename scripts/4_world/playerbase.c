@@ -1,4 +1,4 @@
-modded class PlayerBase 
+modded class PlayerBase
 {
     override void CheckLiftWeapon()
     {
