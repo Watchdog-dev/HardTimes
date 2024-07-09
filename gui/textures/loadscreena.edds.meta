@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{2465EE0AECBCE901}images/loadscreena.edds"
+ Author "desktop-99vhkap"
+ ChangeDate -979554077
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "loadscreena.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}

@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{3F1EE7F40ECCB57A}telas/watermark.edds"
+ Author "desktop-fhgdr6c"
+ ChangeDate 1370517711
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "watermark.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}

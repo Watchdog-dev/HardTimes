@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{B4D937634FF94AAF}telas/logo.edds"
+ Author "desktop-fhgdr6c"
+ ChangeDate 1336963279
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "logo.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}

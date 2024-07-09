@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{1C5F06CFA459B9A1}images/deathscreen.edds"
+ Author "desktop-99vhkap"
+ ChangeDate -1013108509
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "deathscreen.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}
